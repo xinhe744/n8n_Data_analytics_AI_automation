@@ -44,7 +44,7 @@
     {
       "parameters": {
         "public": true,
-        "initialMessages": "Hi there! 👋\nMy name is Selva. How can I assist you today?",
+        "initialMessages": "Hi there! 👋\nMy name is xinhe. How can I assist you today?",
         "options": {}
       },
       "type": "@n8n/n8n-nodes-langchain.chatTrigger",
@@ -63,7 +63,7 @@
           "__rl": true,
           "value": "1VHHTXoT6hwgvb-GmbLBMOrDclgcZeDoa4LtO3Q_txb0",
           "mode": "list",
-          "cachedResultName": "Santhosh anna project",
+          "cachedResultName": "project",
           "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1VHHTXoT6hwgvb-GmbLBMOrDclgcZeDoa4LtO3Q_txb0/edit?usp=drivesdk"
         },
         "sheetName": {
