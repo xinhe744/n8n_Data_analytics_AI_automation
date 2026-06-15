@@ -6,7 +6,8 @@
 
 ## 📐 Architecture Overview
 
-<!-- Add your workflow diagram image here -->
+<!-- Add your workflow diag<img width="518" height="311" alt="N8n-Data Analysis" src="https://github.com/user-attachments/assets/69350db9-6fe2-474b-ab6c-1da375c8d25d" />
+ram image here -->
 
 ---
 
@@ -82,19 +83,4 @@ The workflow uses `gpt-4o` by default. For cost-sensitive deployments, `gpt-4o-m
 - It does not generate charts or visualisations
 - It does not handle multi-sheet joins natively (requires prompt engineering or additional tool nodes)
 
----
 
-## 🚀 Getting Started
-
-1. Clone or download this repository
-2. Import `My_workflow.json` into your n8n instance via **Workflows → Import from File**
-3. Connect your **OpenAI** and **Google Sheets OAuth2** credentials
-4. Update the `documentId` and `sheetName` in the Google Sheets node to point at your data
-5. Activate the workflow
-6. Copy the public chat URL from the Chat Trigger node and share it
-
----
-
-## 🏷️ Tags
-
-`n8n` · `AI Agent` · `OpenAI` · `GPT-4o` · `Google Sheets` · `Data Analysis` · `Automation` · `LangChain` · `No-Code`
